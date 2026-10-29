@@ -60,4 +60,4 @@ The results of the thesis were obtained with release `v1.0`.
 
 ## License
 
-No license is granted for the code in this repository, except for the `emmanoulopoulos/` package, which retains its original MIT License (see `emmanoulopoulos/LICENSE.md`).
+No license is granted for the code in this repository, except for the `emmanoulopoulos/` package and the parts of the notebooks adapted from it (light curve simulation and PSD/PDF check plots), which are subject to the original MIT License of lena-lin/emmanoulopoulos (see `emmanoulopoulos/LICENSE.md`).
